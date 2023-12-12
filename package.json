@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "babel-preset-expo": "8.3.0"
+    "babel-preset-expo": "10.0.0"
   },
   "keywords": [
     "now react native",
